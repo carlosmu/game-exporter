@@ -1,4 +1,4 @@
-# game-exporter
+# Game Exporter
 Game Exporter (Soon...). Blender Addon for export game assets iteratively.
 
 ## Motivation
