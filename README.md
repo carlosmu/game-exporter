@@ -6,6 +6,7 @@ Exporting game assets often requires iterative export. Blender has good exporter
 
 ## To-DO
 v0.1
+- Add new panel "Game Exporter" to Output tab in Properties editor.
 - Field to assign the export path
 - Field to assign the export name
 - Field to assign the collection to export
